@@ -32,4 +32,5 @@
 ~
 
 ![alt text](OAD_baseline.png)
+
 **Figure R6.** Boxplot visualization of the positive-class F1 scores for NARCE, Mamba, and MiniROAD, evaluated on 5-minute and OOD test sets containing longer CE temporal patterns. NARCE_4k outperforms MiniROAD_4k, and even NARCE_2k achieves competitive results compared to MiniROAD_4k. 
